@@ -1,3 +1,11 @@
+
+
+https://salmon-mud-0ce58ac03.5.azurestaticapps.net
+
+https://profrating.azurewebsites.net/api/prof/
+
+
+
 # ratemyprof
 
 This template should help get you started developing with Vue 3 in Vite.
